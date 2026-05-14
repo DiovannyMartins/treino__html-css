@@ -110,14 +110,15 @@ body {
     .font {
         padding: 0;
         font-size: 16px;
-        padding-bottom: 10px;
+        padding-bottom: 20px;
     }
 
     .conteudo > h1 {
         padding: 0;
         font-size: 30px;
         font-weight: bolder;
-        padding-bottom: 10px;
+        padding-bottom: 20px;
+        line-height: 35px;
     }
 
     .conteudo > p {
@@ -125,7 +126,7 @@ body {
         padding: 0;
         font-size: 17px;
         text-align: justify;
-        padding-bottom: 10px;
+        padding-bottom: 20px;
     }
 
     .preco {
@@ -133,7 +134,7 @@ body {
         padding-left: 0;
         font-size: 30px;
         font-weight: normal;
-        padding-bottom: 10px;
+        padding-bottom: 20px;
     }
 
     .preco > del {
